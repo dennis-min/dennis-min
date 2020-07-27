@@ -1,4 +1,5 @@
-### Hi there 👋
+### 你好 👋
+我是丹尼斯，一名信息学竞赛选手。
 
 <!--
 **dennis-min/dennis-min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
